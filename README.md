@@ -56,6 +56,7 @@ sudo pip install phue
 Before writing Python scripts to control and automate the lighting system, we can first test the Philips Hue API without code so we can understand how to communicate with it.
 
 1. Philips Hue provides a request form to test their API. Navigate to this form at http://192.168.86.41/debug/clip.html
+
 *Change the IP address to match your personal network configuration*
 
 2. In order to access that API, first we must create a authenticated user. To create an authenticated user, we should fill the request form API field with:
@@ -84,7 +85,7 @@ Save this token as it will be utilized in later requests:
 
 <img src="https://github.com/jimbucktoo/huelights/blob/main/s2.png" width="500">
 
-## Operation
+## Usage
 
 Now that we are properly authenticated, we can begin utilizing the request form to manipulate our lights. Let's start by turning the light on.
 
