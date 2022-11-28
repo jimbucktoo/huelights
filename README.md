@@ -81,7 +81,7 @@ Before writing Python scripts to control and automate the lighting system, we ca
 	}
 ]
 ```
-Save this token as it will be utilized in later requests:
+Save this authentication token as it will be utilized in later requests:
 
 <img src="https://github.com/jimbucktoo/huelights/blob/main/s2.png" width="500">
 
