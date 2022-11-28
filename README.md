@@ -42,6 +42,8 @@ nmap -sP 192.168.86.0/24
 
 The IP address should be located here in the output. Save this IP address as it will be utilized later:
 
+<img src="https://github.com/jimbucktoo/huelights/blob/main/s1.png" width="500">
+
 5. Finally,  we will install the Phillips Hue Python library so that we can interact with the Philips Hue API:
 ```
 sudo pip install phue
@@ -77,6 +79,8 @@ Before writing Python scripts to control and automate the lighting system, we ca
 ]
 ```
 Save this token as it will be utilized in later requests:
+
+<img src="https://github.com/jimbucktoo/huelights/blob/main/s2.png" width="500">
 
 ## Operation
 
