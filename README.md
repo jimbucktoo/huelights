@@ -152,6 +152,10 @@ You may run into an error the first time you run this because the script needs t
 python3 lightswitch.py
 ```
 
+## Output:
+
+https://user-images.githubusercontent.com/25806014/204189506-26b06696-373a-4530-aa05-41b3d0153d2f.mp4
+
 ## Authors
 
 * **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
