@@ -4,10 +4,10 @@ from time import sleep
 import logging
 
 logging.basicConfig()
-b = Bridge('192.168.86.41')
+bridge = Bridge('192.168.86.41')
 
-#b.connect()
+#bridge.connect()
 
-b.set_light(6, 'on', True)
+bridge.set_light(6, 'on', True)
 sleep(5)
-b.set_light(6, 'on', False)
+bridge.set_light(6, 'on', False)
