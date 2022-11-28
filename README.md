@@ -93,7 +93,9 @@ Now that we are properly authenticated, we can begin utilizing the request form 
 ```
 /api/<Authentication_Token>/lights
 ```
-Each code block in the list, returned as JSON output, begins with the light number. This light number will be utilized to identify which light we wish to manipulate. In the following examples, we will use light number 6:
+Each code block in the list, returned as JSON output, begins with the light number. This light number will be utilized to identify which light we wish to manipulate. In the picture below, the code block for light number 1 is highlighted. However, in the following examples, we will use light number 6:
+
+<img src="https://github.com/jimbucktoo/huelights/blob/main/s3.png" width="500">
 
 2. To turn a light on, replace the request URL with:
 ```
