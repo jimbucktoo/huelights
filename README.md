@@ -1,6 +1,6 @@
 # huelights
 
-ITEC 320 - Project 3
+James Liang - ITEC 320 - Project 3
 
 huelights is a Python application utilizing the Raspberry Pi 4 to control and automate the Philips Hue Smart Lights within a local area network.
 
