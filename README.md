@@ -157,7 +157,7 @@ python3 lightswitch.py
 
 ## Output:
 
-https://user-images.githubusercontent.com/25806014/204189506-26b06696-373a-4530-aa05-41b3d0153d2f.mp4
+https://user-images.githubusercontent.com/25806014/204218312-414680cd-89e3-4b93-aa5e-d4013651ca89.mp4
 
 ## Authors
 
