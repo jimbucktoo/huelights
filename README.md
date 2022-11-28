@@ -1,5 +1,7 @@
 # huelights
 
+ITEC 320 - Project 3
+
 huelights is a Python application utilizing the Raspberry Pi 4 to control and automate the Philips Hue Smart Lights within a local area network.
 
 ## Technologies
@@ -147,7 +149,7 @@ You may run into an error the first time you run this because the script needs t
 
 3. Save the file and run the script. The light should turn on, stay on for 5 seconds, and then turn off:
 ```
-python lightswitch.py
+python3 lightswitch.py
 ```
 
 ## Authors
