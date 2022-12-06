@@ -1,7 +1,5 @@
 # huelights
 
-James Liang - ITEC 320 - Project 3
-
 huelights is a Python application utilizing the Raspberry Pi 4 to control and automate the Philips Hue Smart Lights within a local area network.
 
 ## Technologies
@@ -59,7 +57,7 @@ Before writing Python scripts to control and automate the lighting system, we ca
 
 *Change the IP address to match your personal network configuration*
 
-2. In order to access that API, first we must create a authenticated user. To create an authenticated user, we should fill the request form API field with:
+2. In order to access that API, we must create an authenticated user. To create an authenticated user, we should fill the request form API field with:
 ```
 /api
 ```
