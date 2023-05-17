@@ -153,6 +153,8 @@ python3 lightswitch.py
 
 The light should turn on, stay lit for 5 seconds, and then turn off.
 
+https://github.com/jimbucktoo/huelights/assets/25806014/af4d4c46-6fd6-436d-911b-c2b8aee3edcd
+
 ## Authors
 
 * **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
